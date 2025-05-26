@@ -58,7 +58,7 @@ const PostForm = ({post}) => {
 
       return ''
       
-    })
+    },[])
 
 //TODO Imp method below to learn
     useEffect(()=>{

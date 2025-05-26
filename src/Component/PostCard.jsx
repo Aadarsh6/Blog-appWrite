@@ -1,4 +1,3 @@
-import React from 'react'
 import service from '../appWrite/config'
 import { Link } from 'react-router-dom'
 
