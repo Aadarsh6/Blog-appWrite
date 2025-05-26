@@ -10,6 +10,7 @@ import login from "../Component/Login";
 import PostForm from "./PostForm/PostForm";
 import PostCard from "./PostCard";
 import Protected from "./AuthLayout";
+import Select from "./Select";
 export { 
         Header,
         Footer,
@@ -23,4 +24,5 @@ export {
         PostForm,
         PostCard,
         Protected,
+        Select
 }
