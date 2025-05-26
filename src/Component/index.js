@@ -9,6 +9,7 @@ import RTE from "./RTE";
 import login from "../Component/Login";
 import PostForm from "./PostForm/PostForm";
 import PostCard from "./PostCard";
+import Protected from "./AuthLayout";
 export { 
         Header,
         Footer,
@@ -21,4 +22,5 @@ export {
         login,
         PostForm,
         PostCard,
+        Protected,
 }

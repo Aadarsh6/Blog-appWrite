@@ -66,7 +66,7 @@ const Login = () => {
                 />
                 <Input
                 label = "Password: "
-                placeholde = "Enter your password"
+                placeholder = "Enter your password"
                 type = "password"
                 {...register("password", {
                     required: true
